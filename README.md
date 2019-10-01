@@ -1,8 +1,6 @@
 # DevOps 101 - Introduction to Git
 In this lab we will be taking a look at git source control management as well as how we can use GitHub to store our projects.
 
-## Introduction
-
 ## Prerequisites
 - A GitHub account
 
