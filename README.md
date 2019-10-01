@@ -16,7 +16,7 @@ This directory that we just changed into has the permissions that we need to run
 
 3. Now we need to configure our Git cli to authenticate with our GitHub account. In the terminal, enter the following command replacing *your_username* with your GitHub username.
 ```
-git config --global credential.username your_username
+git config --global credential.https://github.com.username your_username
 ```
 
 4. Then run the following command to have your username added to commit messages going forward. Replace *your_username* to your own GitHub username:
