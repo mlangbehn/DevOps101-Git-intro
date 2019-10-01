@@ -40,7 +40,7 @@ For this lab we will be utilizing a project that already exists and making our o
 3. When done, you will be taken to your own copy of the repo. Next, we need to clone the repo to have a local copy. 
 
 ### Cloning a repo locally
-Click on the green button on the ride side of the repo that says *Clone or donwload* and copy the URL that appears.
+Click on the green button on the right side of the repo that says *Clone or donwload* and copy the URL that appears.
 
 ![clone url](./images/cloneUrl.png)
 
