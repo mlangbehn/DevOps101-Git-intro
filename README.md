@@ -1,8 +1,6 @@
 # DevOps 101 - Introduction to Git
 In this lab we will be taking a look at git source control management as well as how we can use GitHub to store our projects.
 
-## Introduction
-
 ## Prerequisites
 - A GitHub account
 
@@ -21,9 +19,15 @@ This directory that we just changed into has the permissions that we need to run
 git config --global credential.https://github.com.username your_username
 ```
 
+4. Then run the following command to have your username added to commit messages going forward. Replace *your_username* to your own GitHub username:
+```
+git config --global user.name "your_username"
+```
+
 ![git username](./images/gitUsername.png)
 
-4. Then, enter the following command replacing *your_email* with your GitHub email address.
+
+5. Then, enter the following command replacing *your_email* with your GitHub email address.
 ```
 git config --global user.email your_email
 ```
